@@ -40,3 +40,6 @@ a:hover, a:active {
 	margin: auto;
 }
 
+div.link {
+	width: 100%
+}
