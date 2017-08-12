@@ -36,8 +36,7 @@ a:link, a:visited {
 
 a:hover, a:active {
 	background-color: red;
-	width: 50%;
-	margin: auto;
+	width: 100%;
 }
 
 div.link {
