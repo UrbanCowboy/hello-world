@@ -41,6 +41,6 @@ a:hover, a:active {
 }
 
 div.link {
-	width: 100%;
-	display: block;
+	width: 60%;
+	margin: auto;
 }
