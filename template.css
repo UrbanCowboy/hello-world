@@ -30,8 +30,7 @@ a:link, a:visited {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	width: 50%;
-	margin: auto;
+	width: 100%;
 }
 
 a:hover, a:active {
