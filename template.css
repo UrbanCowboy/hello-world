@@ -38,7 +38,8 @@ a:hover, a:active {
 	margin: auto;
 }
 
-div.link {
+div.buttonlink {
+	text-align: center;
 	width: 50%;
 	margin: auto;
 }
