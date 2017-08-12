@@ -30,13 +30,13 @@ a:link, a:visited {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
+	width: 50%;
+	margin: auto;
 }
 
 a:hover, a:active {
 	background-color: red;
+	width: 50%;
+	margin: auto;
 }
 
-div.link {
-	margin: auto;
-	width: 99%;
-}
