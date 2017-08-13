@@ -1,3 +1,36 @@
+/* NAVIGATION */
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	width: 80%;
+	margin: auto;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding : 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+.active {
+	background-color: #4CAF50;
+}
+
+/* CONTENT */
+
 h1 {
 	color: blue;
 	text-align: center;
@@ -23,21 +56,3 @@ h6 {
 	text-align: center;
 }
 
-a:link, a:visited {
-	background-color: #f44336;
-	color: white;
-	padding: 14px 25px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	margin: auto;
-}
-
-a:hover, a:active {
-	background-color: red;
-	margin: auto;
-}
-
-div.buttonlink {
-	text-align: center;
-}
