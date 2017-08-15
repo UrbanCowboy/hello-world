@@ -31,28 +31,11 @@ li a:hover {
 
 /* CONTENT */
 
+body {
+	text-align:center;
+}
+
 h1 {
 	color: blue;
-	text-align: center;
-}
-
-h2 {
-	text-align: center;
-}
-
-h3 {
-	text-align: center;
-}
-
-h4 {
-	text-align: center;
-}
-
-h5 {
-	text-align: center;
-}
-
-h6 {
-	text-align: center;
 }
 
